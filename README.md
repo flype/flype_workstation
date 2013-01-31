@@ -1,1 +1,1 @@
-# my workstation
+my workstation configuration
